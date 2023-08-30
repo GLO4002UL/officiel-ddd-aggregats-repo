@@ -1,0 +1,76 @@
+[
+  {
+    "id": "f15f9e6e-9245-4c3d-9e46-0e2a497f983d",
+    "title": "Introduction to Programming",
+    "content": "Hello everyone, I'd like to discuss the basics of programming languages.",
+    "publication-date": "2023-08-17T09:00:00Z",
+    "author-email": "student1@ulaval.ca",
+    "subforum-slug": "software-engineering",
+    "upvotes": [
+      "teacher2@ulaval.ca",
+      "student6@ulaval.ca"
+    ]
+  },
+  {
+    "id": "43dbce08-8cdd-4ea7-aa62-7c33a7b4931c",
+    "title": "Upcoming Campus Event",
+    "content": "Join us for a fun-filled event on the campus next week!",
+    "publication-date": "2023-08-16T15:30:00Z",
+    "author-email": "teacher2@ulaval.ca",
+    "subforum-slug": "student-life",
+    "upvotes": []
+  },
+  {
+    "id": "d75aeb03-6dc1-424a-ba75-2488d4a07f98",
+    "title": "New Medical Research Findings",
+    "content": "Exciting breakthroughs in medical research have been announced.",
+    "publication-date": "2023-08-15T11:45:00Z",
+    "author-email": "student3@ulaval.ca",
+    "subforum-slug": "medicine",
+    "upvotes": [
+      "teacher7@ulaval.ca",
+      "student1@ulaval.ca"
+    ]
+  },
+  {
+    "id": "3b3d6a0e-1f98-4c13-bb9b-59933df786e7",
+    "title": "Web Development Tips",
+    "content": "Here are some tips for improving your web development skills.",
+    "publication-date": "2023-08-14T08:20:00Z",
+    "author-email": "student6@ulaval.ca",
+    "subforum-slug": "software-engineering",
+    "upvotes": []
+  },
+  {
+    "id": "c1813e95-93ab-43d1-9d84-973603b65d7a",
+    "title": "Study Group Formation",
+    "content": "Looking for fellow students interested in forming a study group for exams.",
+    "publication-date": "2023-08-13T17:10:00Z",
+    "author-email": "student9@ulaval.ca",
+    "subforum-slug": "student-life",
+    "upvotes": []
+  },
+  {
+    "id": "7c9741b7-5f97-4d5d-8e06-948dc142ec65",
+    "title": "Health and Wellness Tips",
+    "content": "Share your best practices for maintaining health and wellness during studies.",
+    "publication-date": "2023-08-12T14:00:00Z",
+    "author-email": "teacher7@ulaval.ca",
+    "subforum-slug": "medicine",
+    "upvotes": [
+      "student3@ulaval.ca"
+    ]
+  },
+  {
+    "id": "8dcd6f16-2c1f-4719-a57a-2cde0f17825b",
+    "title": "Important Forum Update",
+    "content": "We are introducing new features and improvements to the forum platform.",
+    "publication-date": "2023-08-11T10:30:00Z",
+    "author-email": "teacher2@ulaval.ca",
+    "subforum-slug": "general-announcements",
+    "upvotes": [
+      "student6@ulaval.ca",
+      "teacher2@ulaval.ca"
+    ]
+  }
+]

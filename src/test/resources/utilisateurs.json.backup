@@ -1,0 +1,52 @@
+[
+  {
+    "username": "student1",
+    "email": "student1@ulaval.ca",
+    "admin": false
+  },
+  {
+    "username": "teacher2",
+    "email": "teacher2@ulaval.ca",
+    "admin": true
+  },
+  {
+    "username": "student3",
+    "email": "student3@ulaval.ca",
+    "admin": false
+  },
+  {
+    "username": "student4",
+    "email": "student4@ulaval.ca",
+    "admin": false
+  },
+  {
+    "username": "student5",
+    "email": "student5@ulaval.ca",
+    "admin": false
+  },
+  {
+    "username": "student6",
+    "email": "student6@ulaval.ca",
+    "admin": false
+  },
+  {
+    "username": "teacher7",
+    "email": "teacher7@ulaval.ca",
+    "admin": true
+  },
+  {
+    "username": "student8",
+    "email": "student8@ulaval.ca",
+    "admin": false
+  },
+  {
+    "username": "student9",
+    "email": "student9@ulaval.ca",
+    "admin": false
+  },
+  {
+    "username": "student10",
+    "email": "student10@ulaval.ca",
+    "admin": false
+  }
+]

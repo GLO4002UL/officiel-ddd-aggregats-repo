@@ -1,0 +1,135 @@
+[
+  {
+    "id": "f899e207-b8cd-43e2-89e3-2f0eeebd95b6",
+    "reply-to": "f15f9e6e-9245-4c3d-9e46-0e2a497f983d",
+    "author-email": "student4@ulaval.ca",
+    "publication-date": "2023-08-18T10:15:00Z",
+    "content": "I agree, understanding the basics of programming languages is essential!"
+  },
+  {
+    "id": "a5298c87-61d5-45e9-b672-e0c2b2e065e0",
+    "reply-to": "43dbce08-8cdd-4ea7-aa62-7c33a7b4931c",
+    "author-email": "student7@ulaval.ca",
+    "publication-date": "2023-08-17T14:45:00Z",
+    "content": "Count me in for the campus event, can't wait!"
+  },
+  {
+    "id": "c168a4ab-841b-47e5-ae5d-d848d8a3cc6e",
+    "reply-to": "d75aeb03-6dc1-424a-ba75-2488d4a07f98",
+    "author-email": "teacher3@ulaval.ca",
+    "publication-date": "2023-08-16T08:30:00Z",
+    "content": "These medical findings are truly groundbreaking!"
+  },
+  {
+    "id": "7b4d716f-8937-4bfe-82a0-16f34d51f91f",
+    "reply-to": "3b3d6a0e-1f98-4c13-bb9b-59933df786e7",
+    "author-email": "student10@ulaval.ca",
+    "publication-date": "2023-08-15T16:20:00Z",
+    "content": "Thanks for the web development tips, they are very helpful!"
+  },
+  {
+    "id": "17c235cf-af5e-4efc-bf62-bfd5f8b9bbf7",
+    "reply-to": "c1813e95-93ab-43d1-9d84-973603b65d7a",
+    "author-email": "teacher5@ulaval.ca",
+    "publication-date": "2023-08-14T12:10:00Z",
+    "content": "Maintaining health and wellness is crucial for successful studies."
+  },
+  {
+    "id": "69e40b4a-6672-40ea-8e9b-71953d6f3485",
+    "reply-to": "f15f9e6e-9245-4c3d-9e46-0e2a497f983d",
+    "author-email": "student8@ulaval.ca",
+    "publication-date": "2023-08-13T19:00:00Z",
+    "content": "I have some thoughts to share on programming languages too."
+  },
+  {
+    "id": "d8e6b1ac-6546-41a4-b175-6cd8c2164f10",
+    "reply-to": "8dcd6f16-2c1f-4719-a57a-2cde0f17825b",
+    "author-email": "teacher1@ulaval.ca",
+    "publication-date": "2023-08-12T23:55:00Z",
+    "content": "The new features and improvements sound promising!"
+  },
+  {
+    "id": "143d04bb-4dca-4217-bb2d-946fb97945bf",
+    "reply-to": "f15f9e6e-9245-4c3d-9e46-0e2a497f983d",
+    "author-email": "student5@ulaval.ca",
+    "publication-date": "2023-08-11T08:40:00Z",
+    "content": "I completely agree with the points discussed in the programming thread."
+  },
+  {
+    "id": "918bb6f7-2bf4-40b7-b07e-129b7408e2c9",
+    "reply-to": "d75aeb03-6dc1-424a-ba75-2488d4a07f98",
+    "author-email": "student2@ulaval.ca",
+    "publication-date": "2023-08-10T15:25:00Z",
+    "content": "The medical research findings are fascinating!"
+  },
+  {
+    "id": "08eb1c73-b84b-4774-94b0-5b3f7481fb67",
+    "reply-to": "c1813e95-93ab-43d1-9d84-973603b65d7a",
+    "author-email": "student9@ulaval.ca",
+    "publication-date": "2023-08-09T11:10:00Z",
+    "content": "I've been looking for ways to improve my health and wellness routines."
+  },
+  {
+    "id": "3a13df0e-bb2c-416c-aa4e-e1c0d67c7d4e",
+    "reply-to": "c1813e95-93ab-43d1-9d84-973603b65d7a",
+    "author-email": "student6@ulaval.ca",
+    "publication-date": "2023-08-08T13:50:00Z",
+    "content": "Maintaining a healthy lifestyle during studies is a challenge."
+  },
+  {
+    "id": "f1178a1b-c635-4e92-b5bf-71275231de59",
+    "reply-to": "f15f9e6e-9245-4c3d-9e46-0e2a497f983d",
+    "author-email": "teacher6@ulaval.ca",
+    "publication-date": "2023-08-06T22:00:00Z",
+    "content": "Programming languages are the backbone of modern technology."
+  },
+  {
+    "id": "2929f5e4-cf3f-4ed0-a5e9-1e96a8ff058f",
+    "reply-to": "3b3d6a0e-1f98-4c13-bb9b-59933df786e7",
+    "author-email": "teacher4@ulaval.ca",
+    "publication-date": "2023-08-05T18:40:00Z",
+    "content": "Web development is an exciting field to explore."
+  },
+  {
+    "id": "7dd3c2eb-c52c-42f0-a17b-df22f86713f1",
+    "reply-to": "7c9741b7-5f97-4d5d-8e06-948dc142ec65",
+    "author-email": "student3@ulaval.ca",
+    "publication-date": "2023-08-04T09:20:00Z",
+    "content": "Maintaining wellness during studies can be a real challenge."
+  },
+  {
+    "id": "b1d9c53c-7b1c-45df-846c-b40f00c5c52b",
+    "reply-to": "3a13df0e-bb2c-416c-aa4e-e1c0d67c7d4e",
+    "author-email": "teacher5@ulaval.ca",
+    "publication-date": "2023-08-03T14:05:00Z",
+    "content": "Balancing a healthy lifestyle with studies requires planning."
+  },
+  {
+    "id": "ce1a3297-2140-45d7-b44c-1468b5ce54a4",
+    "reply-to": "c168a4ab-841b-47e5-ae5d-d848d8a3cc6e",
+    "author-email": "student2@ulaval.ca",
+    "publication-date": "2023-08-02T19:50:00Z",
+    "content": "The medical field is advancing rapidly with new discoveries."
+  },
+  {
+    "id": "d171183c-c5af-4f53-b05a-4f8705b0f47e",
+    "reply-to": "7c9741b7-5f97-4d5d-8e06-948dc142ec65",
+    "author-email": "student7@ulaval.ca",
+    "publication-date": "2023-08-01T12:35:00Z",
+    "content": "Maintaining mental health during studies is essential."
+  },
+  {
+    "id": "99e07fb6-d78c-4a59-9979-c222aeac96f5",
+    "reply-to": "7c9741b7-5f97-4d5d-8e06-948dc142ec65",
+    "author-email": "teacher3@ulaval.ca",
+    "publication-date": "2023-07-31T16:20:00Z",
+    "content": "Wellness strategies can positively impact academic performance."
+  },
+  {
+    "id": "e8d5648d-6ff3-42cc-a350-6a7501e1238e",
+    "reply-to": "f15f9e6e-9245-4c3d-9e46-0e2a497f983d",
+    "author-email": "student9@ulaval.ca",
+    "publication-date": "2023-07-30T21:05:00Z",
+    "content": "Learning multiple programming languages can be challenging."
+  }
+]
